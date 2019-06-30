@@ -14,4 +14,17 @@ nohup matlab -nodisplay <runtime_overlap.m> log &
 nohup matlab -nodisplay <runtime.m> log &
 
 To change the datasets, change the names for the file and partition file in the runtime.m/runtime_overlap.m file, remember to change the directionality based on whether your graph is directed or undirected. 
+# Paper:
+For more details, pleae refer to our paper: http://web.eecs.umich.edu/~dkoutra/papers/18_FlowR_SDM_CR.pdf
+
+For supplementary proofs, you can find it in the repository
+
+To cite our paper:
+@inproceedings{yan2018fast,
+  title={Fast flow-based random walk with restart in a multi-query setting},
+  author={Yan, Yujun and Heimann, Mark and Jin, Di and Koutra, Danai},
+  booktitle={Proceedings of the 2018 SIAM International Conference on Data Mining},
+  pages={342--350},
+  year={2018},
+  organization={SIAM}
 
