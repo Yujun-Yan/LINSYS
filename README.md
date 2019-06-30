@@ -8,5 +8,5 @@ nohup matlab -nodisplay runtime_overlap.m > log &
 
 nohup matlab -nodisplay runtime.m > log &
 
-# To change the datasets, change the names for the file and partition file in the runtime.m/runtime_overlap.m file, remember to change the directionality based on whether your graph is directed or undirected. 
+To change the datasets, change the names for the file and partition file in the runtime.m/runtime_overlap.m file, remember to change the directionality based on whether your graph is directed or undirected. 
 
