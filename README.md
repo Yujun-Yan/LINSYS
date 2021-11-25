@@ -23,9 +23,14 @@ To cite our paper:
 
 @inproceedings{yan2018fast,
   title={Fast flow-based random walk with restart in a multi-query setting},
+  
   author={Yan, Yujun and Heimann, Mark and Jin, Di and Koutra, Danai},
+  
   booktitle={Proceedings of the 2018 SIAM International Conference on Data Mining},
+  
   pages={342--350},
+  
   year={2018},
+  
   organization={SIAM}
 
